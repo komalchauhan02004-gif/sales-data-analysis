@@ -1,4 +1,3 @@
-# sales-data-analysis
 # Sales Data Analysis Project
 
 ## Tools Used
